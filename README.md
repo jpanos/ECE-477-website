@@ -1,4 +1,4 @@
-# ECE 477 Sowin' Seeds ghghghgh
+# ECE 477 Sowin' Seeds
 
 ## Sub head testing
 
